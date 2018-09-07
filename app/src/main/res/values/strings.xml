@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmsForwarder</string>
+
+<string name="PathButton">Open</string>
+    <string name="ForwardText">Forward To</string>
+    <string name="Menu_item1">Home</string>
+    <string name="Menu_item2">View</string>
+    <string name="Menu_item3">Insert</string>
+    <string name="Menu_item4">Settings</string>
+
+
+</resources>

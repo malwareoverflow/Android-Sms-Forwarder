@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#2a7921</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="splashBackground"></color>
+    <color name="blue"></color>
+<color name="colorGreen">#FF2A7921</color>
+<color name="triangle_red_light">#80deea</color>
+
+    <color name="triangle_red_dark">#42a5f5</color>
+</resources>

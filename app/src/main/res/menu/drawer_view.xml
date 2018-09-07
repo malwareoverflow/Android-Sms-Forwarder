@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_homeicon"
+            android:title="@string/Menu_item1" />
+        <item
+            android:id="@+id/nav_view"
+            android:icon="@drawable/ic_viewicon"
+            android:title="@string/Menu_item2"
+
+            />
+        <item
+            android:id="@+id/nav_insert"
+            android:icon="@drawable/ic_inserticon"
+            android:title="@string/Menu_item3" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_settingtableicon"
+            android:title="@string/Menu_item4" />
+    </group>
+</menu>
